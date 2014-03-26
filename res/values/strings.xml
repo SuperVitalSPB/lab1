@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тестовое задание 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sDec">Введите число в десятичной СИ:</string>
+    <string name="sBi">Его двоичное представление:</string>
+    <string name="sPushBtn">Нажмите кнопку</string>
+    <string name="sEnterText">Введите текст:</string>
+    <string name="sModifyStr">Преобразованная строка:</string>
+    
+
+</resources>
